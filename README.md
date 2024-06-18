@@ -1,8 +1,12 @@
-## Who am I?
-その辺にいる一般的なかえるです。人工言語「雰語」を制作中。コーディングも好き。
+## <div align="center">- Wáihès! -</div>
 
-自創作に関する様々なツール等を制作しています。
+[![kaeru2193's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaeru2193&show_icons=false&bg_color=0,60c160,60c199&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaeru2193&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-今は主にTwitterとDiscordで活動してます。
+## <div align="center">- Who am I? -</div>
 
-2021年頃まではScratchで活動してた人です。
+その辺にいる一般的なかえるです。主に人工言語「雰語」・架空世界「雰界」に関する創作をしてたりします。
+
+## <div align="center">- Links -</div>
+
+- [之機堂](https://kaeru2193.net)
